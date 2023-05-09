@@ -1,0 +1,31 @@
+%! TeX Program = LuaLaTeX
+%% Yuri.chr Decoded, 2023, RadioNoiseE
+
+\documentclass{article}
+
+\pagestyle{empty}
+
+\usepackage[margin={0.6in},centering]{geometry}
+
+\usepackage{fontspec}
+
+\newfontfeature{microtype}{protrusion=default;expansion=deafult}
+\defaultfontfeatures{microtype}
+\adjustspacing=2
+\protrudechars=2
+
+\setmainfont[FakeBold=1.2]{Letter Gothic Std Medium.ttf}
+
+\begin{document}
+
+\title{}
+\author{}
+\date{}
+\maketitle
+
+\raggedleft
+\parskip=\baselineskip
+
+\input{yuri.txt}
+
+\end{document}
