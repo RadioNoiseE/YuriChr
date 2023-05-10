@@ -1,4 +1,4 @@
-If you found this note in a small wooden box with a heart on it, then *congratulations!* You are probably the first person to read this. I didn’t really plan on sharing this with anybody, but for some reason I think it’s exciting that somebody out there, a complete stranger, will come across this note and read my story. Someone I will never meet, sharing such a personal bond with me. I’m fascinated that either one of us could die—even as soon as tomorrow—with the other being completely clueless to the fact. To you, my entire life is within this note, and so I will live for as long as your memory can carry me. Writing this, I’m wondering if that makes you feel fascinated or violated. It’s so exciting.
+If you found this note in a small wooden box with a heart on it, then *congratulations!* You are probably the first person to read this. I didn’t really plan on sharing this with anybody, but for some reason I think it’s exciting that somebody out there, a complete stranger, will come across this note and read my story. Someone I will never meet, sharing such a personal bond with me. I’m fascinated that either one of us could die - ven as soon as tomorrow - ith the other being completely clueless to the fact. To you, my entire life is within this note, and so I will live for as long as your memory can carry me. Writing this, I’m wondering if that makes you feel fascinated or violated. It’s so exciting.
 
 I’m sorry if my story is a bit disorganized, but I’d like to get it down while it’s still fresh on my mind. First, I’ll tell you a little bit about myself. I’m a first-year college girl and have led, by most standards, a pretty unspectacular life up to this point. I grew up in an upper-middle class school district with decent teachers. I did track in middle school and some of high school, and I’ve had two boyfriends. Now, I’m studying for a career in occupational therapy, because I feel the field is undervalued and provides tremendous help to people.
 
@@ -13,6 +13,9 @@ Another reason is that I was afraid of causing harm to too many people. You migh
 And now, having just experienced it, I’d say it was pretty satisfying in the end. Something I would try again? Probably not, since my curiosity has already been satisfied. It really wouldn’t be the same a second time.
 
 But anyway, if by any chance you’re also curious to kill someone, then you’re welcome to take notes. :)
+
+\verb|~~~|
+
 I started a hobby of people-watching soon after I entered college. People-watching is interesting to me because it’s taking one of the infinite extras in your life and turning them into a main character – without them knowing, of course. It’s so easy to forget that every single one of the hundreds of strangers you pass every day has a life story as deep and complex as your own. One thing I noticed about people-watching, and wanting to kill someone, is that you are in more constant awareness of this. When I find a person to observe, their story slowly becomes more clear to me over time, gaps being filled – it really is amazing.
 
 I usually went to grocery stores on weekends and looked around in people’s shopping carts. If I saw something that interested me, I decided to observe the person for a little bit. Of course, since my goal was to find someone to kill, I ruled out anyone who had children or a partner with them. Wedding rings were another tell-tale sign.
@@ -87,4 +90,4 @@ I ended up throwing the laptop in the dumpster with the other stuff. It’s been
 
 But I’ll always wonder how many people there are like me. I’m sure there has to be a lot, because there is just nothing strange about it to me, being curious about killing someone. Sadly, it’s something that people can’t exactly just talk about, so I guess I’ll never know. I’m sure that anyone would just lie about it even if you asked them. But you can’t help but wonder if that person in the grocery store, who stares at you as you pass by, might be considering what it would be like to kill you. If I could, I would tell them all about it, so they could decide for themselves. But who knows, maybe I got lucky, and that person is you. I actually really, really hope so.
 
-~
+\verb|~|
